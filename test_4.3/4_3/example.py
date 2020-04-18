@@ -19,7 +19,7 @@
 #
 #
 # print("所有三位数的素数如下：",end="")
-# for i in range(100,1000):
+# for i in range():
 #    j=2
 #    flag=1
 #    while j<i:
