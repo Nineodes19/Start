@@ -1,0 +1,2 @@
+{'id': '1001', 'name': '卜算子·咏梅', 'author': '陆游', 'content': '驿外断桥边，寂寞开无主。已是黄昏独自愁，更著风和雨。无意苦争春，一任群芳妒。零落成泥碾作尘，只有香如故', 'idea': '以梅花自咏'}
+{'id': '1002', 'name': 'gje9iutr', 'author': 'gjeiu', 'content': 'rjwo', 'idea': "wejowi'"}
