@@ -1,4 +1,0 @@
-{'id': '1005', 'name': 'wehjoiu', 'english': 36, 'python': 56, 'c': 32}
-{'id': '1008', 'name': 'wheiyu', 'english': 78, 'python': 96, 'c': 65}
-{'id': '1002', 'name': 'jiuge', 'english': 78, 'python': 65, 'c': 25}
-{'id': '1004', 'name': 'lingchen', 'english': 56, 'python': 32, 'c': 25}
